@@ -1,0 +1,20 @@
+{
+    "name": "MartinZottmann/Brain",
+    "description": "Neural network library",
+    "version": "0.0.1",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Martin Zottmann",
+            "email": "github@eiscp.de",
+            "homepage": "http://www.martin-zottmann.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {"brain": "lib/"}
+    }
+}
